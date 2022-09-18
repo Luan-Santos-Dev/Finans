@@ -6,3 +6,11 @@
 </p>
 
 https://luan-santos-dev.github.io/finans/
+
+<hr>
+Ferramentas utilizadas:
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap 4</li>
+</ul>
