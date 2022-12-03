@@ -5,7 +5,7 @@
   Para acessar a aplicação:
 </p>
 
-https://luan-santos-dev.github.io/finans/
+https://luan-santos-dev.github.io/Finans/
 
 <hr>
 
